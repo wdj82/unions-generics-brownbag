@@ -1,3 +1,3 @@
-# TypeScript Generics Brownbag
+# TypeScript Toolkit Brownbag
 
-How we create reusable components that work over a variety of types.
+Looking at discriminated unions and generics for TypeScript and React
